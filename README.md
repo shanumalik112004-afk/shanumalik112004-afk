@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS, Bootstrap**
 
-- 👯 I’m looking to collaborate on **Beginner Web Project**
+- 👯 I’m looking to collaborate on **Beginner Web Projects**
 
 - 🤝 I’m looking for help with **Frontend Development**
 
